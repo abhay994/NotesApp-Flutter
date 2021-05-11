@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "340558414225",
+    "project_id": "noteapp-1f92b",
+    "storage_bucket": "noteapp-1f92b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340558414225:android:031ab98e64a6bac1941a30",
+        "android_client_info": {
+          "package_name": "com.example.stackfinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340558414225-km6oqseh0dreo45atr08cn208h7fm3gp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stackfinance",
+            "certificate_hash": "b8eb08adc7ed0f932e2c80b716a5d49af5fa6f4b"
+          }
+        },
+        {
+          "client_id": "340558414225-s2k9lvgu8o5kl663r9fs2tb3v347kcj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGy3s97FINp1yFziwJVE3sS6qoBUXY-VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340558414225-s2k9lvgu8o5kl663r9fs2tb3v347kcj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
