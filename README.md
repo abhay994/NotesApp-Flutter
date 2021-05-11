@@ -1,4 +1,4 @@
-# stackfinance
+# Notes App Flutter offline and online data synchronization using sqlflite and firebase
 
 A new Flutter application.
 
